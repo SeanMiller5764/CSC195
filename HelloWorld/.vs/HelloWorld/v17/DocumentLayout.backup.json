@@ -14,16 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "HelloWorld.cpp",
               "DocumentMoniker": "C:\\Users\\semiller\\OneDrive - Neumont College of Computer Science\\Documents\\Year2\\Q3\\C\u002B\u002B\\CSC195\\HelloWorld\\HelloWorld\\HelloWorld.cpp",
               "RelativeDocumentMoniker": "HelloWorld\\HelloWorld.cpp",
-              "ToolTip": "C:\\Users\\semiller\\OneDrive - Neumont College of Computer Science\\Documents\\Year2\\Q3\\C\u002B\u002B\\CSC195\\HelloWorld\\HelloWorld\\HelloWorld.cpp*",
-              "RelativeToolTip": "HelloWorld\\HelloWorld.cpp*",
+              "ToolTip": "C:\\Users\\semiller\\OneDrive - Neumont College of Computer Science\\Documents\\Year2\\Q3\\C\u002B\u002B\\CSC195\\HelloWorld\\HelloWorld\\HelloWorld.cpp",
+              "RelativeToolTip": "HelloWorld\\HelloWorld.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-31T22:07:21.645Z",
