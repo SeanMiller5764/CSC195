@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\HelloWorld",
-    "\\HelloWorld\\HelloWorld"
+    "\\HelloWorld\\DataTypes",
+    "\\HelloWorld\\UserDataTypes"
   ],
-  "SelectedNode": "\\HelloWorld\\HelloWorld\\HelloWorld.cpp",
+  "SelectedNode": "\\HelloWorld\\UserDataTypes\\UserDataTypes.cpp",
   "PreviewInSolutionExplorer": false
 }

@@ -11,6 +11,20 @@ int main() {
     string name;
     cin >> name;
 
+    /*
+        data type converions
+            implicet conversion- target data type has the capacity to hold the orignal value
+                int i =5;
+                float ifit= i;
+                double idbl= ifit;
+            expilct conversion- explicity inform the complier to convert the data
+                double jdbl= 32.23434345436545345;
+                float jflt= (float) jdbl; traditional
+
+                jflt= static_cast<float>(jdbl); modern conversion
+    
+    */
+
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu

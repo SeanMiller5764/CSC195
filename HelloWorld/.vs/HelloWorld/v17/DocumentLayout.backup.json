@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\semiller\\OneDrive - Neumont College of Computer Science\\Documents\\Year2\\Q3\\C\u002B\u002B\\CSC195\\HelloWorld\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9CB63C48-514E-42AC-8052-FB4B34026904}|DataTypes\\DataTypes.vcxproj|C:\\Users\\semiller\\OneDrive - Neumont College of Computer Science\\Documents\\Year2\\Q3\\C\u002B\u002B\\CSC195\\HelloWorld\\DataTypes\\DataTypes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9CB63C48-514E-42AC-8052-FB4B34026904}|DataTypes\\DataTypes.vcxproj|solutionrelative:DataTypes\\DataTypes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDC8DED8-BE9C-44B9-B06B-5F84E6799AC6}|HelloWorld\\HelloWorld.vcxproj|C:\\Users\\semiller\\OneDrive - Neumont College of Computer Science\\Documents\\Year2\\Q3\\C\u002B\u002B\\CSC195\\HelloWorld\\HelloWorld\\HelloWorld.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BDC8DED8-BE9C-44B9-B06B-5F84E6799AC6}|HelloWorld\\HelloWorld.vcxproj|solutionrelative:HelloWorld\\HelloWorld.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{6042417F-3F4A-4893-8DDB-E8CC0A97F05A}|Guessing_Game\\Guessing_Game.vcxproj|C:\\Users\\semiller\\OneDrive - Neumont College of Computer Science\\Documents\\Year2\\Q3\\C\u002B\u002B\\CSC195\\HelloWorld\\Guessing_Game\\Guessing_Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6042417F-3F4A-4893-8DDB-E8CC0A97F05A}|Guessing_Game\\Guessing_Game.vcxproj|solutionrelative:Guessing_Game\\Guessing_Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,27 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DataTypes.cpp",
-              "DocumentMoniker": "C:\\Users\\semiller\\OneDrive - Neumont College of Computer Science\\Documents\\Year2\\Q3\\C\u002B\u002B\\CSC195\\HelloWorld\\DataTypes\\DataTypes.cpp",
-              "RelativeDocumentMoniker": "DataTypes\\DataTypes.cpp",
-              "ToolTip": "C:\\Users\\semiller\\OneDrive - Neumont College of Computer Science\\Documents\\Year2\\Q3\\C\u002B\u002B\\CSC195\\HelloWorld\\DataTypes\\DataTypes.cpp",
-              "RelativeToolTip": "DataTypes\\DataTypes.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Title": "Guessing_Game.cpp",
+              "DocumentMoniker": "C:\\Users\\semiller\\OneDrive - Neumont College of Computer Science\\Documents\\Year2\\Q3\\C\u002B\u002B\\CSC195\\HelloWorld\\Guessing_Game\\Guessing_Game.cpp",
+              "RelativeDocumentMoniker": "Guessing_Game\\Guessing_Game.cpp",
+              "ToolTip": "C:\\Users\\semiller\\OneDrive - Neumont College of Computer Science\\Documents\\Year2\\Q3\\C\u002B\u002B\\CSC195\\HelloWorld\\Guessing_Game\\Guessing_Game.cpp",
+              "RelativeToolTip": "Guessing_Game\\Guessing_Game.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABoAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-02T20:58:42.102Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HelloWorld.cpp",
-              "DocumentMoniker": "C:\\Users\\semiller\\OneDrive - Neumont College of Computer Science\\Documents\\Year2\\Q3\\C\u002B\u002B\\CSC195\\HelloWorld\\HelloWorld\\HelloWorld.cpp",
-              "RelativeDocumentMoniker": "HelloWorld\\HelloWorld.cpp",
-              "ToolTip": "C:\\Users\\semiller\\OneDrive - Neumont College of Computer Science\\Documents\\Year2\\Q3\\C\u002B\u002B\\CSC195\\HelloWorld\\HelloWorld\\HelloWorld.cpp",
-              "RelativeToolTip": "HelloWorld\\HelloWorld.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-31T22:07:21.645Z",
+              "WhenOpened": "2025-04-07T21:06:55.807Z",
               "EditorCaption": ""
             }
           ]
