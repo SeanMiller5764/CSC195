@@ -37,6 +37,11 @@ int main()
 	{
 		cout << &chemicals[i] << endl;
 	}
+
+	for (string chemical : chemicals) 
+	{
+		cout << chemicals << endl;
+	}
 	
 	cout << "---------------------" << endl;
 

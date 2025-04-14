@@ -8,9 +8,9 @@ using namespace std;
 void arrays() 
 {
     string week[7] = {"Monday","Tuesday","Wensday","Thursday","Friday","Saturday","Sunday"};
-    for (int i = 0;i < week->size();i++)
+    for (string day: week)
     {
-        cout << week[i] << endl;
+        cout << day << endl;
     }
 }
 
