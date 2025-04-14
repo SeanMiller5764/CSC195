@@ -39,5 +39,13 @@ int main()
     cout << &p << endl;// address of pointer p or i1 address
     cout << *p << endl;// value in the pointer p pointing to the adress i1
     cout << i2 << endl;// value of i2 after swap method via pointers
+
+
+    cout << "--------------------------------------" << endl;
+
+    int number1 = 1;
+    int* hnum1 = new int(42);
+
+    int* Arrnum = new int[4];
 }
 
