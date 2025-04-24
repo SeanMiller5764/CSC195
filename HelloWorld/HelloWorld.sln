@@ -27,6 +27,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Streams", "Streams\Streams.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Operators", "Operators\Operators.vcxproj", "{20A5DB7B-9DBE-4B9F-A23D-4E765C94462B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Fail_assignment", "Fail_assignment\Fail_assignment.vcxproj", "{C777B112-A13F-4D99-8858-A06D49CDEC92}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -131,6 +133,14 @@ Global
 		{20A5DB7B-9DBE-4B9F-A23D-4E765C94462B}.Release|x64.Build.0 = Release|x64
 		{20A5DB7B-9DBE-4B9F-A23D-4E765C94462B}.Release|x86.ActiveCfg = Release|Win32
 		{20A5DB7B-9DBE-4B9F-A23D-4E765C94462B}.Release|x86.Build.0 = Release|Win32
+		{C777B112-A13F-4D99-8858-A06D49CDEC92}.Debug|x64.ActiveCfg = Debug|x64
+		{C777B112-A13F-4D99-8858-A06D49CDEC92}.Debug|x64.Build.0 = Debug|x64
+		{C777B112-A13F-4D99-8858-A06D49CDEC92}.Debug|x86.ActiveCfg = Debug|Win32
+		{C777B112-A13F-4D99-8858-A06D49CDEC92}.Debug|x86.Build.0 = Debug|Win32
+		{C777B112-A13F-4D99-8858-A06D49CDEC92}.Release|x64.ActiveCfg = Release|x64
+		{C777B112-A13F-4D99-8858-A06D49CDEC92}.Release|x64.Build.0 = Release|x64
+		{C777B112-A13F-4D99-8858-A06D49CDEC92}.Release|x86.ActiveCfg = Release|Win32
+		{C777B112-A13F-4D99-8858-A06D49CDEC92}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
