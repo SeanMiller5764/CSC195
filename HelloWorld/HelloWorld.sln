@@ -29,6 +29,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Operators", "Operators\Oper
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Fail_assignment", "Fail_assignment\Fail_assignment.vcxproj", "{C777B112-A13F-4D99-8858-A06D49CDEC92}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Fraction_Assignment", "Fraction_Assignment\Fraction_Assignment.vcxproj", "{E63F699C-5800-4377-8271-785C23FB7F80}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -141,6 +143,14 @@ Global
 		{C777B112-A13F-4D99-8858-A06D49CDEC92}.Release|x64.Build.0 = Release|x64
 		{C777B112-A13F-4D99-8858-A06D49CDEC92}.Release|x86.ActiveCfg = Release|Win32
 		{C777B112-A13F-4D99-8858-A06D49CDEC92}.Release|x86.Build.0 = Release|Win32
+		{E63F699C-5800-4377-8271-785C23FB7F80}.Debug|x64.ActiveCfg = Debug|x64
+		{E63F699C-5800-4377-8271-785C23FB7F80}.Debug|x64.Build.0 = Debug|x64
+		{E63F699C-5800-4377-8271-785C23FB7F80}.Debug|x86.ActiveCfg = Debug|Win32
+		{E63F699C-5800-4377-8271-785C23FB7F80}.Debug|x86.Build.0 = Debug|Win32
+		{E63F699C-5800-4377-8271-785C23FB7F80}.Release|x64.ActiveCfg = Release|x64
+		{E63F699C-5800-4377-8271-785C23FB7F80}.Release|x64.Build.0 = Release|x64
+		{E63F699C-5800-4377-8271-785C23FB7F80}.Release|x86.ActiveCfg = Release|Win32
+		{E63F699C-5800-4377-8271-785C23FB7F80}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

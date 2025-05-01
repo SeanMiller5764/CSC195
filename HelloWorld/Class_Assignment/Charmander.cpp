@@ -1,4 +1,5 @@
 #include"Charmander.h"
+
 string Charmander::GetName()
 {
 	return name;
@@ -18,4 +19,14 @@ void Charmander::Read(std::ostream& ostream, std::istream& istream)
 	Pokemon::Read(ostream, istream); // Call base class Read 
 	ostream << "Enter IsFireType: ";
 	istream >> isFiretype;
+}
+void Charmander::Read(ifstream& istream)
+{
+	Pokemon::Read(istream);
+	istream >> isFiretype;
+}
+void Charmander::Write(ofstream& ostream)
+{
+	Pokemon::Write(ostream);
+	ostream << name << endl;
 }
